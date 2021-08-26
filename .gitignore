@@ -35,3 +35,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Assets/Scenes/
+Assets/SkySerie Freebie/
+Assets/KajamansRoads/
+Scenes.meta
+SkySerie Freebie.meta
+KajamansRoads.meta
